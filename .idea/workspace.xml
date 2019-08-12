@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c52d9409-2f15-4ccf-99ed-39feaec74512" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="rake_tasks.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/rake_tasks.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="63" column="11" lean-forward="false" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rake_task_spec.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/unit/puppetlabs_spec_helper/rake_task_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="puppet_spec_helper.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/puppet_spec_helper.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="puppetlabs_spec_helper.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/puppetlabs_spec_helper.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="puppetlabs_spec_helper.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/puppetlabs_spec_helper.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="files.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/puppetlabs_spec/files.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="12" lean-forward="false" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fixtures.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/puppetlabs_spec/fixtures.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="40" lean-forward="false" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="matchers.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/puppetlabs_spec/matchers.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1095">
+              <caret line="73" column="10" lean-forward="false" selection-start-line="73" selection-start-column="10" selection-end-line="73" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="puppet_internals.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/puppetlabs_spec/puppet_internals.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="51" lean-forward="false" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="5220">
+                <caret line="348" column="35" lean-forward="false" selection-start-line="348" selection-start-column="35" selection-end-line="348" selection-end-column="35" />
+                <folding>
+                  <marker date="1508519028000" expanded="true" signature="9284:9287" ph="git" />
+                  <marker date="1508519028000" expanded="true" signature="9296:9298" ph="hg" />
+                  <marker date="1508519028000" expanded="true" signature="9638:9643" ph="1.0.0" />
+                  <marker date="1508519028000" expanded="true" signature="9652:9661" ph="880fca52c" />
+                  <marker date="1508519028000" expanded="true" signature="9858:9867" ph="--verbose" />
+                  <marker date="1508519028000" expanded="true" signature="10106:10158" ph="fixtures: &lt;1 key&gt;" />
+                  <marker date="1508519028000" expanded="true" signature="10118:10158" ph="symlinks: &lt;1 key&gt;" />
+                  <marker date="1508519028000" expanded="true" signature="10143:10158" ph="##{source_dir}" />
+                  <marker date="1508519028000" expanded="true" signature="10291:10440" ph="fixtures: &lt;1 key&gt;" />
+                  <marker date="1508519028000" expanded="true" signature="10303:10440" ph="repositories: &lt;2 keys&gt;" />
+                  <marker date="1508519028000" expanded="true" signature="10331:10380" ph="git://git…s-firewall" />
+                  <marker date="1508519028000" expanded="true" signature="10393:10440" ph="git://git…abs-stdlib" />
+                  <marker date="1508519028000" expanded="true" signature="10510:10778" ph="fixtures: &lt;1 key&gt;" />
+                  <marker date="1508519028000" expanded="true" signature="10522:10778" ph="repositories: &lt;3 keys&gt;" />
+                  <marker date="1508519028000" expanded="true" signature="10550:10599" ph="git://git…s-firewall" />
+                  <marker date="1508519028000" expanded="true" signature="10612:10659" ph="git://git…abs-stdlib" />
+                  <marker date="1508519028000" expanded="true" signature="10664:10778" ph="control_repo: &lt;2 keys&gt;" />
+                  <marker date="1508519028000" expanded="true" signature="10690:10734" ph="https://g…ntrol-repo" />
+                  <marker date="1508519028000" expanded="true" signature="10749:10778" ph="spec/fixt…trol_repos" />
+                  <marker date="1508519028000" expanded="true" signature="10861:11041" ph="fixtures: &lt;1 key&gt;" />
+                  <marker date="1508519028000" expanded="true" signature="10873:11041" ph="repositories: &lt;2 keys&gt;" />
+                  <marker date="1508519028000" expanded="true" signature="10901:10950" ph="git://git…s-firewall" />
+                  <marker date="1508519028000" expanded="true" signature="10955:11041" ph="stdlib: &lt;2 keys&gt;" />
+                  <marker date="1508519028000" expanded="true" signature="10975:11022" ph="git://git…abs-stdlib" />
+                  <marker date="1508519028000" expanded="true" signature="11034:11041" ph="2.6.0" />
+                  <marker date="1508519028000" expanded="true" signature="11143:11269" ph="fixtures: &lt;1 key&gt;" />
+                  <marker date="1508519028000" expanded="true" signature="11155:11269" ph="repositories: &lt;1 key&gt;" />
+                  <marker date="1508519028000" expanded="true" signature="11173:11269" ph="stdlib: &lt;2 keys&gt;" />
+                  <marker date="1508519028000" expanded="true" signature="11193:11248" ph="git://git…adirectory" />
+                  <marker date="1508519028000" expanded="true" signature="11263:11269" ph="code" />
+                  <marker date="1508519028000" expanded="true" signature="11319:11444" ph="fixtures: &lt;1 key&gt;" />
+                  <marker date="1508519028000" expanded="true" signature="11331:11444" ph="forge_modules: &lt;2 keys&gt;" />
+                  <marker date="1508519028000" expanded="true" signature="11360:11381" ph="puppetlabs/firewall" />
+                  <marker date="1508519028000" expanded="true" signature="11386:11444" ph="stdlib: &lt;2 keys&gt;" />
+                  <marker date="1508519028000" expanded="true" signature="11406:11425" ph="puppetlabs/stdlib" />
+                  <marker date="1508519028000" expanded="true" signature="11437:11444" ph="2.6.0" />
+                  <marker date="1508519028000" expanded="true" signature="11505:11795" ph="fixtures: &lt;1 key&gt;" />
+                  <marker date="1508519028000" expanded="true" signature="11517:11795" ph="forge_modules: &lt;2 keys&gt;" />
+                  <marker date="1508519028000" expanded="true" signature="11536:11649" ph="stdlib: &lt;3 keys&gt;" />
+                  <marker date="1508519028000" expanded="true" signature="11556:11575" ph="puppetlabs/stdlib" />
+                  <marker date="1508519028000" expanded="true" signature="11587:11594" ph="2.6.0" />
+                  <marker date="1508519028000" expanded="true" signature="11608:11649" ph="--module_…y_repo.com" />
+                  <marker date="1508519028000" expanded="true" signature="11654:11795" ph="repositories: &lt;1 key&gt;" />
+                  <marker date="1508519028000" expanded="true" signature="11674:11795" ph="firewall: &lt;3 keys&gt;" />
+                  <marker date="1508519028000" expanded="true" signature="11698:11747" ph="git://git…s-firewall" />
+                  <marker date="1508519028000" expanded="true" signature="11761:11768" ph="2.6.0" />
+                  <marker date="1508519028000" expanded="true" signature="11784:11795" ph="--verbose" />
+                  <marker date="1508519028000" expanded="true" signature="14203:14296" ph="do ... end" />
+                  <marker date="1508519028000" expanded="true" signature="14927:15020" ph="do ... end" />
+                  <marker date="1508519028000" expanded="true" signature="15496:15589" ph="do ... end" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tier</find>
+      <find>rake</find>
+      <find>fixtures</find>
+      <find>fixture</find>
+      <find>beaker</find>
+      <find>class</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/spec/unit/puppetlabs_spec_helper/rake_task_spec.rb" />
+        <option value="$PROJECT_DIR$/lib/puppetlabs_spec_helper/rake_tasks.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="puppetlabs_spec_helper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="puppetlabs_spec_helper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="puppetlabs_spec_helper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="puppetlabs_spec_helper" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="puppetlabs_spec_helper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="puppetlabs_spec_helper" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="puppetlabs_spec_helper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="puppetlabs_spec_helper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="puppetlabs_spec_helper" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="puppetlabs_spec_helper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="puppetlabs_spec_helper" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+              <item name="unit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="puppetlabs_spec_helper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="puppetlabs_spec_helper" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+              <item name="unit" type="462c0819:PsiDirectoryNode" />
+              <item name="puppetlabs_spec_helper" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c52d9409-2f15-4ccf-99ed-39feaec74512" name="Default" comment="" />
+      <created>1507333899496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507333899496</updated>
+      <workItem from="1507333900781" duration="341000" />
+      <workItem from="1507569407478" duration="1144000" />
+      <workItem from="1508518682900" duration="1132000" />
+      <workItem from="1508782791261" duration="1191000" />
+      <workItem from="1518812712867" duration="4887000" />
+      <workItem from="1519318876089" duration="438000" />
+      <workItem from="1519324228725" duration="11562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20695000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26895565" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/rake_tasks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/unit/puppetlabs_spec_helper/rake_task_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/unit/puppetlabs_spec_helper/puppetlabs_spec/puppet_internals_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/version.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/puppetlabs_spec/files.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="12" lean-forward="false" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/puppetlabs_spec/fixtures.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="40" lean-forward="false" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/puppetlabs_spec/matchers.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="73" column="10" lean-forward="false" selection-start-line="73" selection-start-column="10" selection-end-line="73" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/puppetlabs_spec/puppet_internals.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="51" lean-forward="false" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="5220">
+            <caret line="348" column="35" lean-forward="false" selection-start-line="348" selection-start-column="35" selection-end-line="348" selection-end-column="35" />
+            <folding>
+              <marker date="1508519028000" expanded="true" signature="9284:9287" ph="git" />
+              <marker date="1508519028000" expanded="true" signature="9296:9298" ph="hg" />
+              <marker date="1508519028000" expanded="true" signature="9638:9643" ph="1.0.0" />
+              <marker date="1508519028000" expanded="true" signature="9652:9661" ph="880fca52c" />
+              <marker date="1508519028000" expanded="true" signature="9858:9867" ph="--verbose" />
+              <marker date="1508519028000" expanded="true" signature="10106:10158" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10118:10158" ph="symlinks: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10143:10158" ph="##{source_dir}" />
+              <marker date="1508519028000" expanded="true" signature="10291:10440" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10303:10440" ph="repositories: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10331:10380" ph="git://git…s-firewall" />
+              <marker date="1508519028000" expanded="true" signature="10393:10440" ph="git://git…abs-stdlib" />
+              <marker date="1508519028000" expanded="true" signature="10510:10778" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10522:10778" ph="repositories: &lt;3 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10550:10599" ph="git://git…s-firewall" />
+              <marker date="1508519028000" expanded="true" signature="10612:10659" ph="git://git…abs-stdlib" />
+              <marker date="1508519028000" expanded="true" signature="10664:10778" ph="control_repo: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10690:10734" ph="https://g…ntrol-repo" />
+              <marker date="1508519028000" expanded="true" signature="10749:10778" ph="spec/fixt…trol_repos" />
+              <marker date="1508519028000" expanded="true" signature="10861:11041" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10873:11041" ph="repositories: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10901:10950" ph="git://git…s-firewall" />
+              <marker date="1508519028000" expanded="true" signature="10955:11041" ph="stdlib: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10975:11022" ph="git://git…abs-stdlib" />
+              <marker date="1508519028000" expanded="true" signature="11034:11041" ph="2.6.0" />
+              <marker date="1508519028000" expanded="true" signature="11143:11269" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11155:11269" ph="repositories: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11173:11269" ph="stdlib: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11193:11248" ph="git://git…adirectory" />
+              <marker date="1508519028000" expanded="true" signature="11263:11269" ph="code" />
+              <marker date="1508519028000" expanded="true" signature="11319:11444" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11331:11444" ph="forge_modules: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11360:11381" ph="puppetlabs/firewall" />
+              <marker date="1508519028000" expanded="true" signature="11386:11444" ph="stdlib: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11406:11425" ph="puppetlabs/stdlib" />
+              <marker date="1508519028000" expanded="true" signature="11437:11444" ph="2.6.0" />
+              <marker date="1508519028000" expanded="true" signature="11505:11795" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11517:11795" ph="forge_modules: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11536:11649" ph="stdlib: &lt;3 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11556:11575" ph="puppetlabs/stdlib" />
+              <marker date="1508519028000" expanded="true" signature="11587:11594" ph="2.6.0" />
+              <marker date="1508519028000" expanded="true" signature="11608:11649" ph="--module_…y_repo.com" />
+              <marker date="1508519028000" expanded="true" signature="11654:11795" ph="repositories: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11674:11795" ph="firewall: &lt;3 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11698:11747" ph="git://git…s-firewall" />
+              <marker date="1508519028000" expanded="true" signature="11761:11768" ph="2.6.0" />
+              <marker date="1508519028000" expanded="true" signature="11784:11795" ph="--verbose" />
+              <marker date="1508519028000" expanded="true" signature="14203:14296" ph="do ... end" />
+              <marker date="1508519028000" expanded="true" signature="14927:15020" ph="do ... end" />
+              <marker date="1508519028000" expanded="true" signature="15496:15589" ph="do ... end" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/rake_tasks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="5220">
+            <caret line="348" column="35" lean-forward="false" selection-start-line="348" selection-start-column="35" selection-end-line="348" selection-end-column="35" />
+            <folding>
+              <marker date="1508519028000" expanded="true" signature="9284:9287" ph="git" />
+              <marker date="1508519028000" expanded="true" signature="9296:9298" ph="hg" />
+              <marker date="1508519028000" expanded="true" signature="9638:9643" ph="1.0.0" />
+              <marker date="1508519028000" expanded="true" signature="9652:9661" ph="880fca52c" />
+              <marker date="1508519028000" expanded="true" signature="9858:9867" ph="--verbose" />
+              <marker date="1508519028000" expanded="true" signature="10106:10158" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10118:10158" ph="symlinks: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10143:10158" ph="##{source_dir}" />
+              <marker date="1508519028000" expanded="true" signature="10291:10440" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10303:10440" ph="repositories: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10331:10380" ph="git://git…s-firewall" />
+              <marker date="1508519028000" expanded="true" signature="10393:10440" ph="git://git…abs-stdlib" />
+              <marker date="1508519028000" expanded="true" signature="10510:10778" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10522:10778" ph="repositories: &lt;3 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10550:10599" ph="git://git…s-firewall" />
+              <marker date="1508519028000" expanded="true" signature="10612:10659" ph="git://git…abs-stdlib" />
+              <marker date="1508519028000" expanded="true" signature="10664:10778" ph="control_repo: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10690:10734" ph="https://g…ntrol-repo" />
+              <marker date="1508519028000" expanded="true" signature="10749:10778" ph="spec/fixt…trol_repos" />
+              <marker date="1508519028000" expanded="true" signature="10861:11041" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10873:11041" ph="repositories: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10901:10950" ph="git://git…s-firewall" />
+              <marker date="1508519028000" expanded="true" signature="10955:11041" ph="stdlib: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10975:11022" ph="git://git…abs-stdlib" />
+              <marker date="1508519028000" expanded="true" signature="11034:11041" ph="2.6.0" />
+              <marker date="1508519028000" expanded="true" signature="11143:11269" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11155:11269" ph="repositories: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11173:11269" ph="stdlib: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11193:11248" ph="git://git…adirectory" />
+              <marker date="1508519028000" expanded="true" signature="11263:11269" ph="code" />
+              <marker date="1508519028000" expanded="true" signature="11319:11444" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11331:11444" ph="forge_modules: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11360:11381" ph="puppetlabs/firewall" />
+              <marker date="1508519028000" expanded="true" signature="11386:11444" ph="stdlib: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11406:11425" ph="puppetlabs/stdlib" />
+              <marker date="1508519028000" expanded="true" signature="11437:11444" ph="2.6.0" />
+              <marker date="1508519028000" expanded="true" signature="11505:11795" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11517:11795" ph="forge_modules: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11536:11649" ph="stdlib: &lt;3 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11556:11575" ph="puppetlabs/stdlib" />
+              <marker date="1508519028000" expanded="true" signature="11587:11594" ph="2.6.0" />
+              <marker date="1508519028000" expanded="true" signature="11608:11649" ph="--module_…y_repo.com" />
+              <marker date="1508519028000" expanded="true" signature="11654:11795" ph="repositories: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11674:11795" ph="firewall: &lt;3 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11698:11747" ph="git://git…s-firewall" />
+              <marker date="1508519028000" expanded="true" signature="11761:11768" ph="2.6.0" />
+              <marker date="1508519028000" expanded="true" signature="11784:11795" ph="--verbose" />
+              <marker date="1508519028000" expanded="true" signature="14203:14296" ph="do ... end" />
+              <marker date="1508519028000" expanded="true" signature="14927:15020" ph="do ... end" />
+              <marker date="1508519028000" expanded="true" signature="15496:15589" ph="do ... end" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/rake_tasks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="5220">
+            <caret line="348" column="35" lean-forward="false" selection-start-line="348" selection-start-column="35" selection-end-line="348" selection-end-column="35" />
+            <folding>
+              <marker date="1508519028000" expanded="true" signature="9284:9287" ph="git" />
+              <marker date="1508519028000" expanded="true" signature="9296:9298" ph="hg" />
+              <marker date="1508519028000" expanded="true" signature="9638:9643" ph="1.0.0" />
+              <marker date="1508519028000" expanded="true" signature="9652:9661" ph="880fca52c" />
+              <marker date="1508519028000" expanded="true" signature="9858:9867" ph="--verbose" />
+              <marker date="1508519028000" expanded="true" signature="10106:10158" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10118:10158" ph="symlinks: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10143:10158" ph="##{source_dir}" />
+              <marker date="1508519028000" expanded="true" signature="10291:10440" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10303:10440" ph="repositories: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10331:10380" ph="git://git…s-firewall" />
+              <marker date="1508519028000" expanded="true" signature="10393:10440" ph="git://git…abs-stdlib" />
+              <marker date="1508519028000" expanded="true" signature="10510:10778" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10522:10778" ph="repositories: &lt;3 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10550:10599" ph="git://git…s-firewall" />
+              <marker date="1508519028000" expanded="true" signature="10612:10659" ph="git://git…abs-stdlib" />
+              <marker date="1508519028000" expanded="true" signature="10664:10778" ph="control_repo: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10690:10734" ph="https://g…ntrol-repo" />
+              <marker date="1508519028000" expanded="true" signature="10749:10778" ph="spec/fixt…trol_repos" />
+              <marker date="1508519028000" expanded="true" signature="10861:11041" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10873:11041" ph="repositories: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10901:10950" ph="git://git…s-firewall" />
+              <marker date="1508519028000" expanded="true" signature="10955:11041" ph="stdlib: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10975:11022" ph="git://git…abs-stdlib" />
+              <marker date="1508519028000" expanded="true" signature="11034:11041" ph="2.6.0" />
+              <marker date="1508519028000" expanded="true" signature="11143:11269" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11155:11269" ph="repositories: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11173:11269" ph="stdlib: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11193:11248" ph="git://git…adirectory" />
+              <marker date="1508519028000" expanded="true" signature="11263:11269" ph="code" />
+              <marker date="1508519028000" expanded="true" signature="11319:11444" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11331:11444" ph="forge_modules: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11360:11381" ph="puppetlabs/firewall" />
+              <marker date="1508519028000" expanded="true" signature="11386:11444" ph="stdlib: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11406:11425" ph="puppetlabs/stdlib" />
+              <marker date="1508519028000" expanded="true" signature="11437:11444" ph="2.6.0" />
+              <marker date="1508519028000" expanded="true" signature="11505:11795" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11517:11795" ph="forge_modules: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11536:11649" ph="stdlib: &lt;3 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11556:11575" ph="puppetlabs/stdlib" />
+              <marker date="1508519028000" expanded="true" signature="11587:11594" ph="2.6.0" />
+              <marker date="1508519028000" expanded="true" signature="11608:11649" ph="--module_…y_repo.com" />
+              <marker date="1508519028000" expanded="true" signature="11654:11795" ph="repositories: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11674:11795" ph="firewall: &lt;3 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11698:11747" ph="git://git…s-firewall" />
+              <marker date="1508519028000" expanded="true" signature="11761:11768" ph="2.6.0" />
+              <marker date="1508519028000" expanded="true" signature="11784:11795" ph="--verbose" />
+              <marker date="1508519028000" expanded="true" signature="14203:14296" ph="do ... end" />
+              <marker date="1508519028000" expanded="true" signature="14927:15020" ph="do ... end" />
+              <marker date="1508519028000" expanded="true" signature="15496:15589" ph="do ... end" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/rake_tasks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="5" lean-forward="false" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1508519028000" expanded="true" signature="9284:9287" ph="git" />
+              <marker date="1508519028000" expanded="true" signature="9296:9298" ph="hg" />
+              <marker date="1508519028000" expanded="true" signature="9638:9643" ph="1.0.0" />
+              <marker date="1508519028000" expanded="true" signature="9652:9661" ph="880fca52c" />
+              <marker date="1508519028000" expanded="true" signature="9858:9867" ph="--verbose" />
+              <marker date="1508519028000" expanded="true" signature="10106:10158" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10118:10158" ph="symlinks: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10143:10158" ph="##{source_dir}" />
+              <marker date="1508519028000" expanded="true" signature="10291:10440" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10303:10440" ph="repositories: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10331:10380" ph="git://git…s-firewall" />
+              <marker date="1508519028000" expanded="true" signature="10393:10440" ph="git://git…abs-stdlib" />
+              <marker date="1508519028000" expanded="true" signature="10510:10778" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10522:10778" ph="repositories: &lt;3 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10550:10599" ph="git://git…s-firewall" />
+              <marker date="1508519028000" expanded="true" signature="10612:10659" ph="git://git…abs-stdlib" />
+              <marker date="1508519028000" expanded="true" signature="10664:10778" ph="control_repo: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10690:10734" ph="https://g…ntrol-repo" />
+              <marker date="1508519028000" expanded="true" signature="10749:10778" ph="spec/fixt…trol_repos" />
+              <marker date="1508519028000" expanded="true" signature="10861:11041" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10873:11041" ph="repositories: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10901:10950" ph="git://git…s-firewall" />
+              <marker date="1508519028000" expanded="true" signature="10955:11041" ph="stdlib: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10975:11022" ph="git://git…abs-stdlib" />
+              <marker date="1508519028000" expanded="true" signature="11034:11041" ph="2.6.0" />
+              <marker date="1508519028000" expanded="true" signature="11143:11269" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11155:11269" ph="repositories: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11173:11269" ph="stdlib: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11193:11248" ph="git://git…adirectory" />
+              <marker date="1508519028000" expanded="true" signature="11263:11269" ph="code" />
+              <marker date="1508519028000" expanded="true" signature="11319:11444" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11331:11444" ph="forge_modules: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11360:11381" ph="puppetlabs/firewall" />
+              <marker date="1508519028000" expanded="true" signature="11386:11444" ph="stdlib: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11406:11425" ph="puppetlabs/stdlib" />
+              <marker date="1508519028000" expanded="true" signature="11437:11444" ph="2.6.0" />
+              <marker date="1508519028000" expanded="true" signature="11505:11795" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11517:11795" ph="forge_modules: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11536:11649" ph="stdlib: &lt;3 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11556:11575" ph="puppetlabs/stdlib" />
+              <marker date="1508519028000" expanded="true" signature="11587:11594" ph="2.6.0" />
+              <marker date="1508519028000" expanded="true" signature="11608:11649" ph="--module_…y_repo.com" />
+              <marker date="1508519028000" expanded="true" signature="11654:11795" ph="repositories: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11674:11795" ph="firewall: &lt;3 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11698:11747" ph="git://git…s-firewall" />
+              <marker date="1508519028000" expanded="true" signature="11761:11768" ph="2.6.0" />
+              <marker date="1508519028000" expanded="true" signature="11784:11795" ph="--verbose" />
+              <marker date="1508519028000" expanded="true" signature="14203:14296" ph="do ... end" />
+              <marker date="1508519028000" expanded="true" signature="14927:15020" ph="do ... end" />
+              <marker date="1508519028000" expanded="true" signature="15496:15589" ph="do ... end" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/rake_tasks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/unit/puppetlabs_spec_helper/puppetlabs_spec/puppet_internals_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/version.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/puppetlabs_spec/fixtures.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="40" lean-forward="false" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/puppetlabs_spec/matchers.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="73" column="10" lean-forward="false" selection-start-line="73" selection-start-column="10" selection-end-line="73" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/puppetlabs_spec/puppet_internals.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="51" lean-forward="false" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="5220">
+            <caret line="348" column="35" lean-forward="false" selection-start-line="348" selection-start-column="35" selection-end-line="348" selection-end-column="35" />
+            <folding>
+              <marker date="1508519028000" expanded="true" signature="9284:9287" ph="git" />
+              <marker date="1508519028000" expanded="true" signature="9296:9298" ph="hg" />
+              <marker date="1508519028000" expanded="true" signature="9638:9643" ph="1.0.0" />
+              <marker date="1508519028000" expanded="true" signature="9652:9661" ph="880fca52c" />
+              <marker date="1508519028000" expanded="true" signature="9858:9867" ph="--verbose" />
+              <marker date="1508519028000" expanded="true" signature="10106:10158" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10118:10158" ph="symlinks: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10143:10158" ph="##{source_dir}" />
+              <marker date="1508519028000" expanded="true" signature="10291:10440" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10303:10440" ph="repositories: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10331:10380" ph="git://git…s-firewall" />
+              <marker date="1508519028000" expanded="true" signature="10393:10440" ph="git://git…abs-stdlib" />
+              <marker date="1508519028000" expanded="true" signature="10510:10778" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10522:10778" ph="repositories: &lt;3 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10550:10599" ph="git://git…s-firewall" />
+              <marker date="1508519028000" expanded="true" signature="10612:10659" ph="git://git…abs-stdlib" />
+              <marker date="1508519028000" expanded="true" signature="10664:10778" ph="control_repo: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10690:10734" ph="https://g…ntrol-repo" />
+              <marker date="1508519028000" expanded="true" signature="10749:10778" ph="spec/fixt…trol_repos" />
+              <marker date="1508519028000" expanded="true" signature="10861:11041" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10873:11041" ph="repositories: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10901:10950" ph="git://git…s-firewall" />
+              <marker date="1508519028000" expanded="true" signature="10955:11041" ph="stdlib: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="10975:11022" ph="git://git…abs-stdlib" />
+              <marker date="1508519028000" expanded="true" signature="11034:11041" ph="2.6.0" />
+              <marker date="1508519028000" expanded="true" signature="11143:11269" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11155:11269" ph="repositories: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11173:11269" ph="stdlib: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11193:11248" ph="git://git…adirectory" />
+              <marker date="1508519028000" expanded="true" signature="11263:11269" ph="code" />
+              <marker date="1508519028000" expanded="true" signature="11319:11444" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11331:11444" ph="forge_modules: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11360:11381" ph="puppetlabs/firewall" />
+              <marker date="1508519028000" expanded="true" signature="11386:11444" ph="stdlib: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11406:11425" ph="puppetlabs/stdlib" />
+              <marker date="1508519028000" expanded="true" signature="11437:11444" ph="2.6.0" />
+              <marker date="1508519028000" expanded="true" signature="11505:11795" ph="fixtures: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11517:11795" ph="forge_modules: &lt;2 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11536:11649" ph="stdlib: &lt;3 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11556:11575" ph="puppetlabs/stdlib" />
+              <marker date="1508519028000" expanded="true" signature="11587:11594" ph="2.6.0" />
+              <marker date="1508519028000" expanded="true" signature="11608:11649" ph="--module_…y_repo.com" />
+              <marker date="1508519028000" expanded="true" signature="11654:11795" ph="repositories: &lt;1 key&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11674:11795" ph="firewall: &lt;3 keys&gt;" />
+              <marker date="1508519028000" expanded="true" signature="11698:11747" ph="git://git…s-firewall" />
+              <marker date="1508519028000" expanded="true" signature="11761:11768" ph="2.6.0" />
+              <marker date="1508519028000" expanded="true" signature="11784:11795" ph="--verbose" />
+              <marker date="1508519028000" expanded="true" signature="14203:14296" ph="do ... end" />
+              <marker date="1508519028000" expanded="true" signature="14927:15020" ph="do ... end" />
+              <marker date="1508519028000" expanded="true" signature="15496:15589" ph="do ... end" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puppetlabs_spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/puppetlabs_spec/files.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="12" lean-forward="false" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/puppetlabs_spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/puppet_spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/unit/puppetlabs_spec_helper/rake_task_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/puppetlabs_spec_helper/rake_tasks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="63" column="11" lean-forward="false" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
